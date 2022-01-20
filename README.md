@@ -28,26 +28,26 @@ If everything went well you can now check that both GraphQL and Vaadin work:
 
 Query to show all bicycles:
 
-![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-query.png)
+![alt text](https://github.com/tcrurav/VaadinAddedToGraphQLProject/blob/master/screenshots/screenshot-query.png)
 
 Vaadin working:
 
-![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-vaadin-working.png)
+![alt text](https://github.com/tcrurav/VaadinAddedToGraphQLProject/blob/master/screenshots/screenshot-vaadin-working.png)
 
 
 ## How to proceed to add Vaadin to a previous project
 
 You can always add Vaadin or any other dependency to your project after having created it by right clicking on your pom.xml -> Spring --> Add Starters:
 
-![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-adding-to-pom.png)
+![alt text](https://github.com/tcrurav/VaadinAddedToGraphQLProject/blob/master/screenshots/screenshot-adding-to-pom.png)
 
 After that just follow the usual procedure to add any new dependency. In this case: Vaadin
 
-![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-adding-to-pom-2.png)
+![alt text](https://github.com/tcrurav/VaadinAddedToGraphQLProject/blob/master/screenshots/screenshot-adding-to-pom-2.png)
 
 And then you can happily start coding. It's always interesting to organize your code with packages. In this case I have added the package com.tiburcio.bicyclesWithGraphQL.vaadin.
 
-![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-vaadin-code.png)
+![alt text](https://github.com/tcrurav/VaadinAddedToGraphQLProject/blob/master/screenshots/screenshot-vaadin-code.png)
 
 
 ## Prerequisites
